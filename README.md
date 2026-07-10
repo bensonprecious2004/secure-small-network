@@ -1,2 +1,1 @@
-# secure-small-network
-Secure small network capstone project demonstrating network design, firewall configuration, port hardening, traffic analysis, and threat verification using Cisco Packet Tracer, Kali Linux, Nmap, Wireshark, and iptables
+This project was completed as part of the TechCrush capstone training program. The implementation, documentation, and repository organization were prepared by me to demonstrate practical skills in network design, firewall configuration, port hardening, traffic analysis, and cybersecurity testing.
